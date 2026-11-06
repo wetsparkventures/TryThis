@@ -8,4 +8,4 @@ recommendations.
 
 Status: planned (2026-11-06). The plan is [TRYTHIS.md](TRYTHIS.md). No code yet.
 
-A WetSpark lab project; "TryThis" is the working name.
+A WetSpark lab project (public repo); "TryThis" is the working name.

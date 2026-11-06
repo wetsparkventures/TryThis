@@ -226,8 +226,8 @@ Follows `SQL.md`: proper-case names, one capital per word, meaningful keys, each
 | Phase | Delivers | Done when |
 |---|---|---|
 | **0. Plan** (this document) | Folder, repo, plan, name check | Jack approves the plan and the first-phase scope |
-| **1. Taste and recommendations** | Sign-in; add favorites in film, TV, books, music, podcasts, YouTube, restaurants and free text; facets; "what next" per kind and across kinds with reasons; Amazon and Bookshop links behind the firewall; shareable profile; PWA on Fly | Jack and the family use it for two weeks and the recommendations are worth acting on |
-| **2. Playlists and goals** | Spotify and YouTube playlists; Instagram guide page; completionist goals from Wikidata; educational goals with syllabi and quizzes; Letterboxd, Goodreads and Spotify imports | A goal of each type runs end to end, quiz included |
+| **1. Taste, recommendations and playlists** | Sign-in; add favorites in film, TV, books, music, podcasts, YouTube, restaurants and free text; facets; "what next" per kind and across kinds with reasons; Amazon and Bookshop links behind the firewall; shareable profile; Spotify and YouTube playlists in the user's own account (Jack widened phase 1 to include them, 2026-11-06); PWA on Fly | Jack and the family use it for two weeks, the recommendations are worth acting on and a playlist lands in Spotify and YouTube |
+| **2. Goals** | Instagram guide page; completionist goals from Wikidata; educational goals with syllabi and quizzes; Letterboxd, Goodreads and Spotify imports | A goal of each type runs end to end, quiz included |
 | **3. Every kind, and money** | Remaining kinds (art, architecture, comedians, plays, clothing, snacks, eBay, cars, travel, presents); gift mode; eBay, OpenTable, travel and ticket affiliates; collaborative filtering; paid tier; app-store wrappers if wanted | Public launch under the final name |
 
 Each phase is a few weeks of sessions, not months; phase 1 is the one to size carefully and ship.
@@ -249,8 +249,8 @@ Each phase is a few weeks of sessions, not months; phase 1 is the one to size ca
 
 ## 11. Identity and WetSpark
 
-A WetSpark product. Proposed portfolio entry: status `lab`, identity `dba` (its own domain later; no
-texting campaign needed), public once there is something to show. Integrations (Google Cloud
+A WetSpark product. Portfolio entry (Jack, 2026-11-06): status `lab`, identity `dba` (its own domain later; no
+texting campaign needed), public on the site from the start, no announcement. Integrations (Google Cloud
 project, Spotify app, Amazon Associates, eBay developer account) are opened under WetSpark's
 identity per `WetSpark/INTEGRATIONS.md`, using info@wetspark.com, and recorded there.
 
@@ -266,15 +266,15 @@ identity per `WetSpark/INTEGRATIONS.md`, using info@wetspark.com, and recorded t
 Recommendation: keep TryThis as the folder and working name (like Sandbox), and choose the launch
 name at the end of phase 1 when the product is in hand. Candidates can be checked then.
 
-## 13. Decisions for Jack
+## 13. Decisions (Jack, 2026-11-06)
 
-1. Phase 1 scope as in §9, or narrower (film, TV and books only) to ship faster?
-2. The Instagram limit (§4.4): an Instagram guide page instead of a playlist. OK?
-3. Private repo (the default for Jack's projects) or public?
-4. WetSpark portfolio: lab and private until there is something to show, like DatingManager?
+1. Phase 1 is the wider version: the planned scope plus Spotify and YouTube playlists (§9).
+2. Instagram: the guide page stands in for a playlist (§4.4). Agreed.
+3. The repo is public.
+4. WetSpark portfolio: `lab`, public on the site, no announcement.
 
 ## 14. Branches and pull requests
 
 | Repo | Branch | Pull request | State |
 |---|---|---|---|
-| JackBiltis/TryThis | main | none (Jack's own repo: commits go straight to main) | plan only |
+| [JackBiltis/TryThis](https://github.com/JackBiltis/TryThis) (public) | main | none (Jack's own repo: commits go straight to main) | plan only |
