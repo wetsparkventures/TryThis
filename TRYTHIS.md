@@ -277,4 +277,4 @@ name at the end of phase 1 when the product is in hand. Candidates can be checke
 
 | Repo | Branch | Pull request | State |
 |---|---|---|---|
-| [JackBiltis/TryThis](https://github.com/JackBiltis/TryThis) (public) | main | none (Jack's own repo: commits go straight to main) | plan only |
+| [wetsparkventures/TryThis](https://github.com/wetsparkventures/TryThis) (public) | main | none (Jack's own repo: commits go straight to main) | plan only |
